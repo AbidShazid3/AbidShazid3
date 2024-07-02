@@ -1,6 +1,7 @@
+![logo](https://github.com/AbidShazid3/AbidShazid3/blob/main/Screenshot_37.jpg)
 <h1 align="center"><hhttps://github.com/AbidShazid3/AbidShazid3/tree/main1 align="center">Hi 👋, I'm Abid Shadat Noor</h1>
-<h3 align="center">A passionate frontend developer from BD</h3>
-
+<h3 align="center">I am a passionate junior front end developer. Specializing in building scalable web applications I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, ExpressJS and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.</h3>
+<p>
 
 <br />
 

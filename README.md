@@ -1,4 +1,4 @@
-<h1><hhttps://github.com/AbidShazid3/AbidShazid3/tree/main1 align="center">Hi 👋, I'm Abid Shadat Noor</h1>
+<h1 align="center"><hhttps://github.com/AbidShazid3/AbidShazid3/tree/main1 align="center">Hi 👋, I'm Abid Shadat Noor</h1>
 <h3 align="center">A passionate frontend developer from BD</h3>
 
 
